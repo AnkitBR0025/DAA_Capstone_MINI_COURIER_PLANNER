@@ -2,7 +2,7 @@
 ### Design & Analysis of Algorithms (ETCCDA302)
 **K.R. Mangalam University, Gurugram, Haryana**  
 **Programme:** B.Tech CSE (FSD)  
-**Faculty:** Angali Pal
+**Faculty:** Anjali Pal
 
 ---
 
